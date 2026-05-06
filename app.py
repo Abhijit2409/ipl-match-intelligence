@@ -29,7 +29,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
 
-from src.feature_builder import *build_features, load_assets
+from feature_builder import build_features, load_assets
 
 # ----------------------------------------------------------------------
 # Page configuration

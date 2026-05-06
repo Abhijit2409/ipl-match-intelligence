@@ -289,16 +289,19 @@ st.markdown(CUSTOM_CSS, unsafe_allow_html=True)
 # ----------------------------------------------------------------------
 # File-presence check (fail loudly with the expected file list)
 # ----------------------------------------------------------------------
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent.parent
 
 REQUIRED_FILES = [
-    "feature_builder.py",
-    "ipl_model.pkl",
-    "feature_columns.pkl",
-    "matches_updated_ipl_upto_2025.csv",
-    "deliveries_updated_ipl_upto_2025.csv",
+    BASE_DIR / "src" / "feature_builder.py",
+    BASE_DIR / "artifacts" / "ipl_model.pkl",
+    BASE_DIR / "artifacts" / "feature_columns.pkl",
+    BASE_DIR / "data" / "matches_updated_ipl_upto_2025.csv",
+    BASE_DIR / "data" / "deliveries_updated_ipl_upto_2025.csv",
 ]
-APP_DIR = Path(__file__).resolve().parent
-missing = [f for f in REQUIRED_FILES if not (APP_DIR / f).exists()]
+
+missing = [str(f) for f in REQUIRED_FILES if not f.exists()]
 if missing:
     st.error(
         "Required files missing from the app directory. Expected each of "

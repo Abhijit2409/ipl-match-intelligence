@@ -40,10 +40,12 @@ import pandas as pd
 # --------------------------------------------------------------------
 
 # Default file locations (override via build_features arguments if needed)
-DELIVERIES_PATH    = "deliveries_updated_ipl_upto_2025.csv"
-MATCHES_PATH       = "matches_updated_ipl_upto_2025.csv"
-FEATURE_COLS_PATH  = "feature_columns.pkl"
-MODEL_PATH         = "ipl_model.pkl"
+BASE_DIR = Path(__file__).resolve().parent.parent
+
+DELIVERIES_PATH    = BASE_DIR / "data" / "deliveries_updated_ipl_upto_2025.csv"
+MATCHES_PATH       = BASE_DIR / "data" / "matches_updated_ipl_upto_2025.csv"
+FEATURE_COLS_PATH  = BASE_DIR / "artifacts" / "feature_columns.pkl"
+MODEL_PATH         = BASE_DIR / "artifacts" / "ipl_model.pkl"
 
 # Chronological cut-off used at training time (inclusive)
 TRAIN_END = 2023

@@ -291,7 +291,8 @@ st.markdown(CUSTOM_CSS, unsafe_allow_html=True)
 # ----------------------------------------------------------------------
 from pathlib import Path
 
-BASE_DIR = Path(__file__).resolve().parent.parent
+APP_DIR = Path(__file__).resolve().parent
+BASE_DIR = APP_DIR
 
 REQUIRED_FILES = [
     BASE_DIR / "src" / "feature_builder.py",

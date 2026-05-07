@@ -1,0 +1,132 @@
+feature,importance
+wkts_total,0.115610644
+overperform_par,0.0931551
+wicket_intensity,0.05824837
+chase_progress_15,0.03964987
+chase_pressure_15,0.038830847
+death_collapse,0.031457607
+req_rr_after_15,0.029434187
+req_runs_after_15,0.022135962
+score_vs_venue_par,0.021417
+score_vs_year_par,0.020186437
+cum_runs_total,0.016380899
+momentum_breakdown,0.015300252
+target_score,0.0147996
+chase_progress_pp,0.014705537
+venue_bat_first_winrate,0.012637467
+v_death_diff,0.01235771
+death_runs,0.012275293
+req_runs_after_pp,0.011910971
+venue_Sawai Mansingh Stadium,0.011478816
+death_rr,0.011261987
+venue_Kingsmead,0.011144279
+mid_vs_par,0.010240751
+v_middle_diff,0.010038318
+powerplay_rr,0.009955112
+middle_aggression,0.009672344
+v_pp_diff,0.009623837
+middle_runs,0.009442881
+death_rpw,0.0093979025
+death_share_of_innings,0.009337131
+chase_pressure_pp,0.008965867
+venue_Wankhede Stadium,0.008690396
+pp_vs_par,0.008635697
+middle_wickets,0.008554973
+powerplay_runs,0.008551425
+bat_avg_runs_scored,0.008496167
+bowl_form_to_date,0.008395488
+accel_middle_to_death,0.008296971
+bat_recent_runs_scored,0.008249081
+bat_avg_runs_conceded,0.008210902
+acceleration_score,0.008064035
+wkts_rem_after_pp,0.007861766
+v_middle_avg,0.0078393705
+bowl_form_last_10,0.007839057
+bat_form_to_date,0.00774316
+par_after_pp,0.007571239
+bowl_avg_runs_scored,0.007528442
+bowl_recent_runs_conceded,0.0073549687
+par_after_15,0.0073046796
+bowl_recent_runs_scored,0.0072921296
+accel_pp_to_middle,0.0072914883
+venue_par_total,0.007272405
+bat_form_last_10,0.0072298776
+death_wickets,0.0071572866
+wkts_rem_after_15,0.0071440456
+middle_rr,0.0070953253
+bat_h2h_winrate,0.0070732837
+cum_runs_after_15,0.007011971
+pp_rpw,0.0069919294
+bat_recent_runs_conceded,0.00684825
+bowl_avg_runs_conceded,0.006833086
+"venue_Punjab Cricket Association IS Bindra Stadium, Mohali",0.0067672785
+venue_year_par,0.006680797
+middle_rpw,0.00652179
+v_pp_avg,0.006507767
+req_rr_after_pp,0.0065075257
+v_death_avg,0.0064169634
+batting_won_toss,0.006007447
+year,0.005783146
+venue_Eden Gardens,0.0055706925
+powerplay_wickets,0.005476377
+toss_chose_bat,0.0049854703
+venue_SuperSport Park,0.0012929147
+death_aggression,0.0
+middle_collapse,0.0
+cum_runs_after_pp,0.0
+underperform_par,0.0
+pp_collapse,0.0
+pp_aggression,0.0
+"venue_Barsapara Cricket Stadium, Guwahati",0.0
+impact_era_after,0.0
+"venue_Arun Jaitley Stadium, Delhi",0.0
+venue_Barabati Stadium,0.0
+recovery_innings,0.0
+venue_Buffalo Park,0.0
+"venue_Brabourne Stadium, Mumbai",0.0
+"venue_Dr DY Patil Sports Academy, Mumbai",0.0
+venue_De Beers Diamond Oval,0.0
+venue_Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0.0
+venue_Dubai International Cricket Stadium,0.0
+"venue_Eden Gardens, Kolkata",0.0
+venue_Dr DY Patil Sports Academy,0.0
+venue_Feroz Shah Kotla,0.0
+venue_Green Park,0.0
+"venue_Himachal Pradesh Cricket Association Stadium, Dharamsala",0.0
+venue_Himachal Pradesh Cricket Association Stadium,0.0
+"venue_Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",0.0
+venue_Brabourne Stadium,0.0
+stable_innings,0.0
+batting_first_or_second,0.0
+"venue_M Chinnaswamy Stadium, Bengaluru",0.0
+venue_M Chinnaswamy Stadium,0.0
+venue_JSCA International Stadium Complex,0.0
+venue_Holkar Cricket Stadium,0.0
+venue_Maharashtra Cricket Association Stadium,0.0
+venue_M.Chinnaswamy Stadium,0.0
+"venue_MA Chidambaram Stadium, Chepauk",0.0
+venue_MA Chidambaram Stadium,0.0
+venue_Nehru Stadium,0.0
+venue_New Wanderers Stadium,0.0
+venue_OUTsurance Oval,0.0
+venue_Newlands,0.0
+venue_Punjab Cricket Association IS Bindra Stadium,0.0
+"venue_Maharashtra Cricket Association Stadium, Pune",0.0
+"venue_Narendra Modi Stadium, Ahmedabad",0.0
+"venue_MA Chidambaram Stadium, Chepauk, Chennai",0.0
+venue_Rajiv Gandhi International Stadium,0.0
+"venue_Punjab Cricket Association Stadium, Mohali",0.0
+"venue_Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",0.0
+"venue_Rajiv Gandhi International Stadium, Uppal",0.0
+venue_Saurashtra Cricket Association Stadium,0.0
+"venue_Sawai Mansingh Stadium, Jaipur",0.0
+"venue_Sardar Patel Stadium, Motera",0.0
+"venue_Rajiv Gandhi International Stadium, Uppal, Hyderabad",0.0
+venue_Sharjah Cricket Stadium,0.0
+venue_Shaheed Veer Narayan Singh International Stadium,0.0
+venue_St George's Park,0.0
+venue_Sheikh Zayed Stadium,0.0
+venue_Subrata Roy Sahara Stadium,0.0
+"venue_Vidarbha Cricket Association Stadium, Jamtha",0.0
+"venue_Wankhede Stadium, Mumbai",0.0
+"venue_Zayed Cricket Stadium, Abu Dhabi",0.0

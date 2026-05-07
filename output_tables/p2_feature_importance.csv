@@ -1,0 +1,92 @@
+feature,importance,family
+wkts_total,0.08665209223368694,Innings shape / acceleration
+death_wickets,0.04679284793822686,Death overs phase
+wkts_rem_after_15,0.041789603444165324,Middle overs phase
+death_rpw,0.040492224773762624,Death overs phase
+middle_rpw,0.040478961673733584,Middle overs phase
+v_death_diff,0.035452499647539784,Venue context (Δ vs avg)
+pp_rpw,0.035194291055203844,Powerplay phase
+v_middle_diff,0.03497550599265879,Venue context (Δ vs avg)
+cum_runs_total,0.03422284095266092,Innings shape / acceleration
+death_share_of_innings,0.03320450375689967,Death overs phase
+cum_runs_after_15,0.03304581963823345,Middle overs phase
+v_pp_diff,0.03189329897897811,Venue context (Δ vs avg)
+accel_middle_to_death,0.031261094921585526,Middle overs phase
+death_runs,0.025670819611604445,Death overs phase
+death_collapse,0.025347230588999858,Death overs phase
+death_rr,0.02506773367921932,Death overs phase
+accel_pp_to_middle,0.02479068962423714,Middle overs phase
+middle_rr,0.024531212539828633,Middle overs phase
+middle_runs,0.02393703947683189,Middle overs phase
+batting_first_or_second,0.023122817593211775,Match context
+powerplay_runs,0.021913090277392504,Powerplay phase
+powerplay_rr,0.021456913017514144,Powerplay phase
+cum_runs_after_pp,0.021248806313044138,Powerplay phase
+v_middle_avg,0.021210293201615743,Venue context (baseline)
+v_death_avg,0.021205890782298127,Venue context (baseline)
+v_pp_avg,0.02080132841439017,Venue context (baseline)
+middle_wickets,0.01892108895118135,Middle overs phase
+year,0.017996994298314983,Match context
+middle_aggression,0.017904398097159328,Middle overs phase
+pp_aggression,0.017834498154763567,Powerplay phase
+death_aggression,0.0172054737862841,Death overs phase
+wkts_rem_after_pp,0.01541279175181343,Powerplay phase
+powerplay_wickets,0.013249255737484462,Powerplay phase
+middle_collapse,0.007459324647902466,Middle overs phase
+pp_collapse,0.004117349806678037,Powerplay phase
+venue_Eden Gardens,0.0029334550900248766,Venue (one-hot)
+venue_Wankhede Stadium,0.0025864142223621022,Venue (one-hot)
+venue_M Chinnaswamy Stadium,0.0022268061093736803,Venue (one-hot)
+"venue_MA Chidambaram Stadium, Chepauk",0.0021608565432523186,Venue (one-hot)
+"venue_Rajiv Gandhi International Stadium, Uppal",0.001905881242147202,Venue (one-hot)
+venue_Sawai Mansingh Stadium,0.0018780668216666074,Venue (one-hot)
+"venue_Punjab Cricket Association Stadium, Mohali",0.0018536961932780246,Venue (one-hot)
+venue_Sharjah Cricket Stadium,0.001823265682145956,Venue (one-hot)
+venue_Dubai International Cricket Stadium,0.0017376390771685353,Venue (one-hot)
+venue_Feroz Shah Kotla,0.0016984895544698102,Venue (one-hot)
+venue_M.Chinnaswamy Stadium,0.001484824699009703,Venue (one-hot)
+venue_Sheikh Zayed Stadium,0.0014474625023078286,Venue (one-hot)
+venue_Kingsmead,0.0014416055767336488,Venue (one-hot)
+venue_Rajiv Gandhi International Stadium,0.0014328698820310533,Venue (one-hot)
+venue_Maharashtra Cricket Association Stadium,0.0012900167912436819,Venue (one-hot)
+"venue_Wankhede Stadium, Mumbai",0.0011238788705185976,Venue (one-hot)
+"venue_Maharashtra Cricket Association Stadium, Pune",0.0010332816160344743,Venue (one-hot)
+"venue_Dr DY Patil Sports Academy, Mumbai",0.0009724943645791417,Venue (one-hot)
+"venue_MA Chidambaram Stadium, Chepauk, Chennai",0.0007904370709486195,Venue (one-hot)
+"venue_Zayed Cricket Stadium, Abu Dhabi",0.0007580687269388294,Venue (one-hot)
+venue_Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0.0007363449095625892,Venue (one-hot)
+"venue_Sardar Patel Stadium, Motera",0.0007359730938184474,Venue (one-hot)
+venue_Punjab Cricket Association IS Bindra Stadium,0.0007063954360695729,Venue (one-hot)
+venue_Dr DY Patil Sports Academy,0.0006991713129854459,Venue (one-hot)
+venue_SuperSport Park,0.0006990927297320719,Venue (one-hot)
+"venue_Brabourne Stadium, Mumbai",0.0006063372927181645,Venue (one-hot)
+venue_JSCA International Stadium Complex,0.0005982878509893505,Venue (one-hot)
+venue_Subrata Roy Sahara Stadium,0.0005783300999084622,Venue (one-hot)
+venue_MA Chidambaram Stadium,0.0005709226072338044,Venue (one-hot)
+"venue_Punjab Cricket Association IS Bindra Stadium, Mohali",0.0005443711223857652,Venue (one-hot)
+venue_New Wanderers Stadium,0.0005272978847588705,Venue (one-hot)
+venue_Nehru Stadium,0.0004962295126073827,Venue (one-hot)
+venue_Barabati Stadium,0.0004489557235601896,Venue (one-hot)
+venue_De Beers Diamond Oval,0.0004210880012911586,Venue (one-hot)
+venue_St George's Park,0.0003903387871275747,Venue (one-hot)
+venue_Saurashtra Cricket Association Stadium,0.00034149662842155183,Venue (one-hot)
+venue_Himachal Pradesh Cricket Association Stadium,0.00031328932342521805,Venue (one-hot)
+venue_Newlands,0.00028909594293636696,Venue (one-hot)
+venue_Holkar Cricket Stadium,0.00028867550434339036,Venue (one-hot)
+"venue_Narendra Modi Stadium, Ahmedabad",0.00027543034128030996,Venue (one-hot)
+venue_Shaheed Veer Narayan Singh International Stadium,0.0002717950175703385,Venue (one-hot)
+"venue_Arun Jaitley Stadium, Delhi",0.0002485319502379745,Venue (one-hot)
+"venue_Vidarbha Cricket Association Stadium, Jamtha",0.00024374374351561975,Venue (one-hot)
+venue_Brabourne Stadium,0.0002374416828958244,Venue (one-hot)
+venue_Buffalo Park,0.00010379320547909889,Venue (one-hot)
+venue_Green Park,7.724182300517841e-05,Venue (one-hot)
+"venue_Eden Gardens, Kolkata",6.42347382604791e-05,Venue (one-hot)
+venue_OUTsurance Oval,4.595773854000922e-05,Venue (one-hot)
+"venue_Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",0.0,Venue (one-hot)
+impact_era_after,0.0,Match context
+"venue_Barsapara Cricket Stadium, Guwahati",0.0,Venue (one-hot)
+"venue_Sawai Mansingh Stadium, Jaipur",0.0,Venue (one-hot)
+"venue_Himachal Pradesh Cricket Association Stadium, Dharamsala",0.0,Venue (one-hot)
+"venue_Rajiv Gandhi International Stadium, Uppal, Hyderabad",0.0,Venue (one-hot)
+"venue_Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",0.0,Venue (one-hot)
+"venue_M Chinnaswamy Stadium, Bengaluru",0.0,Venue (one-hot)

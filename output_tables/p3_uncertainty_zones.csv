@@ -1,0 +1,6 @@
+uncertainty_zone,innings,win_rate,mean_abs_err
+Confident loss,53,0.094,0.145
+Lean loss,4,0.75,0.562
+Coin flip,8,0.5,0.497
+Lean win,7,0.571,0.486
+Confident win,74,0.77,0.269

@@ -1,0 +1,11 @@
+match_id,innings,batting_team,bowling_team,venue,target,cum_runs_total,proba,pred,abs_err
+1359520,1,Punjab Kings,Mumbai Indians,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",0,214.0,0.98152417,1,0.9815241694450378
+1359526,1,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",0,214.0,0.9775039,1,0.9775038957595825
+1370353,1,Gujarat Titans,Chennai Super Kings,"Narendra Modi Stadium, Ahmedabad",0,214.0,0.9755308,1,0.9755308032035828
+1359516,1,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",0,212.0,0.95813894,1,0.9581389427185059
+1359515,1,Chennai Super Kings,Punjab Kings,"MA Chidambaram Stadium, Chepauk, Chennai",0,200.0,0.9510845,1,0.9510844945907593
+1359487,1,Gujarat Titans,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",0,204.0,0.9368804,1,0.9368804097175598
+1359489,1,Royal Challengers Bangalore,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",0,212.0,0.9350465,1,0.9350464940071106
+1359537,2,Mumbai Indians,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",0,172.0,0.89670193,1,0.8967019319534302
+1359540,1,Punjab Kings,Rajasthan Royals,"Himachal Pradesh Cricket Association Stadium, Dharamsala",0,187.0,0.8955765,1,0.8955764770507812
+1359517,1,Royal Challengers Bangalore,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,126.0,0.1156954,0,0.8843045979738235

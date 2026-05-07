@@ -1,0 +1,4 @@
+Model,Stage,Accuracy,Precision,Recall,ROC-AUC
+Random Forest,A · Powerplay only,0.637,0.632,0.658,0.658
+Random Forest,B · + Middle overs,0.699,0.671,0.781,0.769
+Random Forest,C · Full innings,0.712,0.691,0.767,0.787

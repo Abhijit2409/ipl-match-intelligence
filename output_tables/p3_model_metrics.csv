@@ -1,0 +1,2 @@
+Model,Stage,Accuracy,Precision,Recall,ROC-AUC,Brier,LogLoss
+XGBoost (Phase 3 strategic),C+ Full innings + strategic,0.781,0.741,0.863,0.864,0.16,0.504

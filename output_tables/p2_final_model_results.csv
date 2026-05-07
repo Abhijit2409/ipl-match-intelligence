@@ -1,0 +1,14 @@
+Model,Stage,Accuracy,Precision,Recall,ROC-AUC
+Logistic Regression,A · Powerplay only,0.651,0.645,0.671,0.669
+Random Forest,A · Powerplay only,0.589,0.582,0.63,0.608
+Gradient Boosting,A · Powerplay only,0.616,0.613,0.63,0.639
+XGBoost,A · Powerplay only,0.575,0.575,0.575,0.636
+Logistic Regression,B · + Middle overs,0.692,0.689,0.699,0.744
+Random Forest,B · + Middle overs,0.705,0.688,0.753,0.755
+Gradient Boosting,B · + Middle overs,0.685,0.671,0.726,0.76
+XGBoost,B · + Middle overs,0.692,0.671,0.753,0.742
+Logistic Regression,C · Full innings,0.685,0.69,0.671,0.764
+Random Forest,C · Full innings,0.692,0.675,0.74,0.77
+Gradient Boosting,C · Full innings,0.726,0.72,0.74,0.802
+XGBoost,C · Full innings,0.726,0.714,0.753,0.795
+Random Forest (tuned),C · Full innings,0.692,0.675,0.74,0.77

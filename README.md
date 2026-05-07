@@ -423,14 +423,7 @@ Open `powerbi/IPL_Match_Intelligence.pbix` in Power BI Desktop. The report point
 <div align="left">
 
 ### Abhijit Mishra
-**Data Analyst &middot; Insight-first &middot; Open to opportunities in Canada**
 
-I work at the intersection of business framing, careful data engineering, and product storytelling. This project is the long-form version of how I approach problems &mdash; start with the question, build the pipeline that genuinely answers it, validate without leakage, and ship a product layer that lets a non-technical stakeholder play with the result.
-
-- **Email**  &nbsp;[abhijitmishra0103@gmail.com](mailto:abhijitmishra0103@gmail.com)
-- **LinkedIn** &nbsp;`<add your LinkedIn URL>`
-- **GitHub** &nbsp;`<add your GitHub URL>`
-- **Portfolio** &nbsp;`<add your portfolio URL>`
 
 </div>
 

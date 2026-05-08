@@ -23,7 +23,7 @@ A descriptive-to-predictive analytics project across **18 IPL seasons** (2008&nd
 > **TL;DR** &nbsp;Most IPL matches are won by the team that takes **2 of 3 phases** of the innings. Since the **Impact Player rule (2023)**, the **death-overs run rate has lifted by ~1 run per over** and **200+ totals have grown 4&times;**. A 134-feature XGBoost model trained chronologically (≤2023) and tested on 2024&ndash;2025 hits **0.911 ROC-AUC** with **Brier 0.132** — a probability surface clean enough to put on a broadcast.
 
 ---
-https://ipl-match-intelligence.streamlit.app/
+https://ipl-match-live-dashboard.streamlit.app/
 
 ## 1 · Problem Statement
 

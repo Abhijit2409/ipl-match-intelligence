@@ -344,71 +344,7 @@ ipl-match-intelligence/
 └── README.md
 ```
 
----
-
-## 12 · How to run
-
-### 12.1 &nbsp;Install
-
-```bash
-git clone https://github.com/<your-handle>/ipl-match-intelligence.git
-cd ipl-match-intelligence
-python -m venv .venv
-source .venv/bin/activate            # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-```
-
-### 12.2 &nbsp;Reproduce the analysis (notebook)
-
-```bash
-jupyter notebook notebooks/IPL_Analytics.ipynb
-```
-
-The notebook is sectioned: descriptive analysis (§1&ndash;6), Phase-1 takeaways (§7), seasonal team wins (§8), Phase-2 modeling (§9), advanced features and tuning (§10), and Phase-3 strategic intelligence (§11). All result tables export to `output_tables/` as CSV.
-
-### 12.3 &nbsp;Re-train the model
-
-```bash
-python src/train_model.py
-# produces:  artifacts/ipl_model.pkl  +  artifacts/feature_columns.pkl
-```
-
-### 12.4 &nbsp;Launch the Streamlit app
-
-```bash
-py -m streamlit run src/app.py
-# opens at http://localhost:8501
-```
-
-### 12.5 &nbsp;Open the Power BI report
-
-Open `powerbi/IPL_Match_Intelligence.pbix` in Power BI Desktop. The report points at the CSVs in `output_tables/`.
-
----
-
-## 13 · Screenshots
-
-> Replace the placeholders with your actual exports / screenshots.
-
-**Power BI &mdash; Executive Summary page**
-
-![Power BI &mdash; Executive Summary](assets/dashboard_overview.png)
-
-**Streamlit app &mdash; innings explorer**
-
-![Streamlit innings explorer](assets/streamlit_app.png)
-
-**Top-10 strategic feature importance**
-
-![Feature importance](assets/feature_importance.png)
-
-**Era comparison &mdash; before vs after Impact Player**
-
-![Era comparison](assets/era_comparison.png)
-
----
-
-## 14 · Future improvements
+## 12 · Future improvements
 
 - **Player-level features** &mdash; the `bat_*` / `bowl_*` namespace already cleanly nests; adding individual batting and bowling rolling stats is a natural extension.
 - **Isotonic / Platt calibration** &mdash; tightens the mid-range overconfidence; expected to push Brier from 0.132 closer to 0.10.
@@ -418,8 +354,7 @@ Open `powerbi/IPL_Match_Intelligence.pbix` in Power BI Desktop. The report point
 - **Weather and toss-time context** &mdash; dew-prone evening venues like Chinnaswamy and Eden Gardens drive part of the residual chase variance.
 
 ---
-
-## 15 · Author
+Author
 
 <div align="left">
 

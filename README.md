@@ -6,7 +6,7 @@
 <div align="center">
 
 # IPL Match Outcome & Phase Analysis
-🚀 [Live Dashboard →](https://ipl-match-intelligence.streamlit.app/)
+🚀 [Live Dashboard →](https://abhijit2409.streamlit.app/)
 
 ### Where IPL matches are actually won — and how the Impact Player rule rewired the math.
 

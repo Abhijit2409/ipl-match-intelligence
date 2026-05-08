@@ -48,13 +48,13 @@ This project answers that with ball-by-ball data, leakage-safe feature engineeri
 
 | # | Question | Where it's answered |
 |:--|:---------|:--------------------|
-| 1 | Which phase carries the strongest signal of who wins? | §7 Insights · §8 Feature importance |
-| 2 | How many phases does the eventual winner usually take? | §7 Insight #2 |
-| 3 | Did the Impact Player rule actually change scoring patterns? | §7 Insights #3&ndash;5 |
-| 4 | Are wickets or runs more predictive at each phase? | §8 Feature importance |
-| 5 | At what point in the innings does the result become &ldquo;reliable&rdquo;? | §8 Stage progression |
-| 6 | Is post-2023 IPL more or less predictable than pre-2023? | §8 Era comparison |
-| 7 | Can we put a calibrated probability on a chase situation? | §8 Calibration · §9 Streamlit app |
+| 1 | Which phase carries the strongest signal of who wins? | 7. Insights · 8. Feature importance |
+| 2 | How many phases does the eventual winner usually take? | 7 Insight #2 |
+| 3 | Did the Impact Player rule actually change scoring patterns? | 7 Insights #3&ndash;5 |
+| 4 | Are wickets or runs more predictive at each phase? | 8 Feature importance |
+| 5 | At what point in the innings does the result become &ldquo;reliable&rdquo;? | 8 Stage progression |
+| 6 | Is post-2023 IPL more or less predictable than pre-2023? | 8 Era comparison |
+| 7 | Can we put a calibrated probability on a chase situation? | 8 Calibration · 9 Streamlit app |
 
 ---
 
